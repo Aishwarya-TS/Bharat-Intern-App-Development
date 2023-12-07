@@ -1,4 +1,4 @@
- window.onload = () => { 
+ window.onload = () => {
 	const form1 = document.querySelector("#addForm"); 
 
 	let items = document.getElementById("items"); 
